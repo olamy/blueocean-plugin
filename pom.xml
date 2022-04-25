@@ -464,7 +464,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>pipeline-input-step</artifactId>
-            <version>2.8</version>
+            <version>448.v37cea_9a_10a_70</version>
         </dependency>
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
